@@ -21,7 +21,7 @@ Third para lorem ipsum
 ### Directories
 [code](./code)
 
-[data](./data/)
+[data](./data)
 
 [references](./references)
 
