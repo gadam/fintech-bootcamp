@@ -7,9 +7,9 @@ Lorem ipsum
 ### Third level heading :)
 Third para lorem ipsum
 
-** 2 splats for bolding **
+**2 splats for bolding**
 
-* 1 splat for italics *
+*1 splat for italics*
 
 * Bullet 1
 * Bullet 2
